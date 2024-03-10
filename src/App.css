@@ -1,0 +1,59 @@
+body{
+  /* background:linear-gradient(rgba(97, 90, 90,rgba(102, 93, 93, 0.236) 93, 93)),url('https://static-production.npmjs.com/abf53a31b2da4657a1a004ee9358551c.png'); */
+  background-image: linear-gradient(270deg, rgba(176, 42, 42, .16) 0%, rgba(176, 42, 42, .56) 18.45%, rgba(176, 42, 42, .8) 49.67%, rgba(176, 42, 42, .56) 82.52%, rgba(176, 42, 42, .196364) 99.7%, rgba(189, 40, 40, 0) 99.71%, rgba(203, 56, 55, 0) 99.72%, rgba(203, 56, 55, .16) 99.73%), url('https://static-production.npmjs.com/abf53a31b2da4657a1a004ee9358551c.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;    
+  margin: 0;
+  padding: 0;
+  
+}
+.dummy{
+  /* background:linear-gradient(rgba(97, 90, 90,rgba(102, 93, 93, 0.236) 93, 93)),url('https://static-production.npmjs.com/abf53a31b2da4657a1a004ee9358551c.png'); */
+  background-image: linear-gradient(270deg, rgba(176, 42, 42, .16) 0%, rgba(176, 42, 42, .56) 18.45%, rgba(176, 42, 42, .8) 49.67%, rgba(176, 42, 42, .56) 82.52%, rgba(176, 42, 42, .196364) 99.7%, rgba(189, 40, 40, 0) 99.71%, rgba(203, 56, 55, 0) 99.72%, rgba(203, 56, 55, .16) 99.73%), url('https://static-production.npmjs.com/abf53a31b2da4657a1a004ee9358551c.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed;     */
+}
+/* .nav{
+}
+.ph3{
+  padding-left: 2rem ;
+  padding-right: 2rem;
+ }
+ .center, .mr-auto{
+   margin-right: auto;
+  margin-left: auto;
+ }
+.mw9{
+  max-width: 96rem;
+}
+.items-center{ 
+    align-items: center;  
+}
+.nav1{
+  font-size: 20px;
+  line-height: 160%;
+  color: black;
+  letter-spacing: 0.015625em;
+}
+.dim, .dim:focus, .dim:hover{
+  transition: opacity .15s ease-in;
+  opacity: 1;
+}
+.pr3{
+  padding-right: 1rem;
+}
+ .link, .link:active, .link:focus, .link:hover, .link:link, .link:visited{
+  transition: color .15s ease-in;
+  text-decoration: none;
+} 
+.lh-title{
+  line-height: 1.25;
+}
+.b--white-30{
+  border-color: hsla(0, 0%, 100%, .3);
+}
+*, *:before, *:after{
+  box-sizing: border-box; 
+} */
